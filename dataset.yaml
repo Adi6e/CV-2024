@@ -1,0 +1,4 @@
+train: /kaggle/input/vehicle-dataset-for-yolo/vehicle dataset/train
+val: /kaggle/input/vehicle-dataset-for-yolo/vehicle dataset/valid
+nc: 6
+names: [ 'car', 'threewheel', 'bus', 'truck', 'motorbike', 'van']
